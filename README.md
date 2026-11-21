@@ -23,23 +23,23 @@ La integración se realiza mediante PyMongo, permitiendo:
 
 ## Funcionalidades Implementadas
 
-✅ Inicio de sesión y autenticación
+- Inicio de sesión y autenticación
 
-✅ Gestión de usuarios
+- Gestión de usuarios
 
-✅ Control de permisos por roles
+- Control de permisos por roles
 
-✅ Registro de incidentes viales
+- Registro de incidentes viales
 
-✅ Clasificación por tipo de accidente
+- Clasificación por tipo de accidente
 
-✅ Consumo de APIs externas
+- Consumo de APIs externas
 
-✅ Integración con MongoDB
+- Integración con MongoDB
 
-✅ Persistencia de información
+- Persistencia de información
 
-✅ Interfaz gráfica desarrollada con PySide6
+- Interfaz gráfica desarrollada con PySide6
 
 ## Dependencias
 
